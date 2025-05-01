@@ -1,0 +1,5 @@
+p=int(input("enter the priciple amount:"))
+t=float(input("enter the no. of years:"))
+r=float(input("enter the interest rate:"))
+interest=((p*r*t)/100)
+print("total interest after",t,"years is Rs.",interest)
