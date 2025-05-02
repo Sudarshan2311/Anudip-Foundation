@@ -32,4 +32,4 @@ elif option ==500:
     else:
         print("final amount is:",amount)
 else:
-    print("wrong output slected")  
+    print("wrong intput slected")  
